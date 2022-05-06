@@ -1,0 +1,7 @@
+{
+    "type":"PL",
+    "cfg": {
+        "name": "player",
+        "image": "sl01.png"
+    }
+}

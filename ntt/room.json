@@ -1,0 +1,9 @@
+{
+    "type":"TS",
+    "class":"room",
+    "cfg": {
+        "name": "test_room",
+        "loop_h": 1,
+        "loop_w": 1
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "type":"BG",
+    "cfg": {
+        "name": "bg",
+        "layout": "fill",
+        "image": "bg.jpg"
+    }
+}
